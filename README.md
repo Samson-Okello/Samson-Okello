@@ -20,5 +20,5 @@ When problems appear it takes inqenuity, finesse, and often experience to figure
       - Most facilities perfoem some basic quality control but may give you potentially problematic data.
       - Find out what control samples are included.
       
-## ** ARRAY BASED DATA
+## ARRAY BASED DATA
 
