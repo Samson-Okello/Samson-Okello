@@ -1,6 +1,8 @@
 #  GENETIC ARRAY DATA QUALITY CONTROL  
  
-##### September 21, 2020 
+#####                   September 21, 2020 
+
+
 
 This is a general guide and not a prescription, every data set is unique. 
 
